@@ -1,0 +1,15 @@
+.reservaButton {
+    border-radius: 100px;
+    background: var(--m-3-sys-light-primary, #6750A4);
+    color: var(--m-3-sys-light-on-primary, #FFF);
+    text-align: center;
+    /* M3/label/large */
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 10px 24px;
+    outline: none;
+    border: none;
+  }

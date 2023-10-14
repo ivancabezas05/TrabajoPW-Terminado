@@ -1,0 +1,33 @@
+.busquedalibro{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    justify-content: end;
+    align-items: center;
+    flex-direction: row;
+    gap: 10px;
+
+}
+
+.botoncambio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 100px;
+    background-color: #CAC4D0;
+    border: none;
+    outline: none;
+    padding: 5px;
+    text-align: center;
+    font-family: 'roboto' 'sans serif';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.botoncambio:hover{
+    background-color:#6750A4;
+    color:#FFF;
+}
